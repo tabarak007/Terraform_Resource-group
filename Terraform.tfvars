@@ -7,8 +7,5 @@ x = {
     name     = "rg-prod"
     location = "canada east"
   }
-  tipu2 = {
-    name = "rg-qa"
-    location = "canada east"
-  }
+
 }
